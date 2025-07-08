@@ -3,10 +3,10 @@ const Footer = () => {
     <footer className="border-t border-gray-100 bg-gray-50">
       <div className="container mx-auto px-6 py-8">
         <div className="text-center">
-          <p className="text-xs text-muted-foreground font-light tracking-wide">
+          <p className="text-xs text-gray-500 font-light tracking-wide">
             for those who feel too much.
           </p>
-          <div className="mt-4 text-xs text-muted-foreground">
+          <div className="mt-4 text-xs text-gray-500">
             © 2024 feltnotsaid. All feelings reserved.
           </div>
         </div>
