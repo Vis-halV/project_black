@@ -77,7 +77,7 @@ const Index = () => {
             For the ones who feel too much.
           </h2>
           <p className="text-gray-500 font-light leading-relaxed text-lg">
-            In a world of curated perfection, we believe in the beauty of raw emotion. feltnotsaid is a sanctuary for authentic expression—where vulnerability becomes art, and feelings find their visual voice.
+            In a world of curated perfection, we believe in the beauty of raw emotion. feltnotsaid is a sanctuary for authentic expression where vulnerability becomes art, and feelings find their visual voice.
           </p>
           <div className="mt-8">
             <Link to="/about">
