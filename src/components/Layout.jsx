@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/next"
 import Header from './Header';
 import Footer from './Footer';
 
@@ -7,6 +8,7 @@ const Layout = ({ children }) => {
       <Header />
       <main className="flex-grow pt-16">
         {children}
+        <Analytics />
       </main>
       <Footer />
     </div>
